@@ -141,6 +141,6 @@ This project is for educational purposes as part of the CODTECH internship.
 ---
 
 ## 🙋‍♂️ Author
+Sejal Dumbre – sejaldumbre047@gmail.com 
 
-[Your Name] – [Your Email]  
 *Intern at CODTECH*
